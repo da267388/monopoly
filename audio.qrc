@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/audio">
+        <file>audio/dice_sound.mp3</file>
+        <file>audio/roulette.mp3</file>
+    </qresource>
+</RCC>
